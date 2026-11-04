@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <video src="binaryex.mp4" controls width="560">
+  <video controls width="480" height="270" preload="metadata">
+    <source src="https://raw.githubusercontent.com/mohsafer/breaking-binaries/main/binaryex.mp4" type="video/mp4">
     Your browser does not support the video tag. Watch the class recording:
-    <a href="binaryex.mp4">binaryex.mp4</a>
+    <a href="https://raw.githubusercontent.com/mohsafer/breaking-binaries/main/binaryex.mp4">binaryex.mp4</a>
   </video>
 </p>
 

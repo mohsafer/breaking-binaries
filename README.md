@@ -5,11 +5,6 @@
   <sub>A CTF-Style Handbook of Binary Exploitation, Reverse Engineering, and C Exploitation Techniques</sub>
 </p>
 
-<p align="center">
-  <a href="https://youtu.be/9z0G2_3ok6w">
-    <img src="https://img.youtube.com/vi/9z0G2_3ok6w/hqdefault.jpg" alt="Watch the binary exploitation class recording" width="480">
-  </a>
-</p>
 
 <p align="center">
   <i>Short class walkthrough — exploit dev loop from recon to shell.</i>

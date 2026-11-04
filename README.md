@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/mohsafer/breaking-binaries/main/binaryex.mp4">
-    ▶ <b>Watch the binary exploitation class recording</b>
+  <a href="https://youtu.be/9z0G2_3ok6w">
+    <img src="https://img.youtube.com/vi/9z0G2_3ok6w/hqdefault.jpg" alt="Watch the binary exploitation class recording" width="480">
   </a>
 </p>
 

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <video src="binaryex.mp4" controls width="560" poster="cover_draft.png">
+  <video src="binaryex.mp4" controls width="560">
     Your browser does not support the video tag. Watch the class recording:
     <a href="binaryex.mp4">binaryex.mp4</a>
   </video>

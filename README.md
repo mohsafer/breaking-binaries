@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <video controls width="480" height="270" preload="metadata" src="https://github.com/user-attachments/assets/2563190a-a14f-4762-a2e8-a4fe34cda40d">
-    Your browser does not support the video tag. Watch the class recording:
-    <a href="https://github.com/user-attachments/assets/2563190a-a14f-4762-a2e8-a4fe34cda40d">binaryex.mp4</a>
-  </video>
+  <a href="https://raw.githubusercontent.com/mohsafer/breaking-binaries/main/binaryex.mp4">
+    ▶ <b>Watch the binary exploitation class recording</b>
+  </a>
 </p>
 
 <p align="center">

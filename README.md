@@ -27,6 +27,8 @@ then hardened against the defenses a real binary will have.
 
 **Author:** Mohammad Mosafer · **Version:** v1.2.0 (build 4) · **Length:** 260+ pages
 
+**DOI:** [10.5281/zenodo.23963446](https://doi.org/10.5281/zenodo.23963446)
+
 > ⚠️ **Educational use only.** Every technique here is illegal to apply
 > against systems you do not own or are not explicitly authorized to
 > test. All practice must happen in sandboxed lab environments (see the
